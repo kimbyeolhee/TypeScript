@@ -1,1 +1,1 @@
-<h2>[기본타입]()</h2>
+<h2>[1. 기본타입](https://github.com/kimbyeolhee/TypeScript/blob/main/Fundamentals/01_type-basic.ts)</h2>
