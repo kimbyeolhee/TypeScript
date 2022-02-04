@@ -5,7 +5,7 @@ interface PersonInterface {
     age: number;
 }
 
-type PersonTyoe {
+type PersonType = {
     name: string;
     age: number;
 }
@@ -15,7 +15,7 @@ var jaehoon: PersonInterface = {
     age: 22,
 }
 
-var jaehoon2: PersonTyoe = {
+var jaehoon2: PersonType = {
     name: '재훈',
     age: 22,
 }
